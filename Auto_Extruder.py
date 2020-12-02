@@ -2,7 +2,6 @@
 import serial
 import time
 import tkinter as tk
-from classfile import GUI_Work as GUI
 import serial.tools.list_ports
 
 import warnings
