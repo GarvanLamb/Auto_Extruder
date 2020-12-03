@@ -1,7 +1,7 @@
 # Auto_Extruder
 Senior Design 2 Project Temple University Auto Extruder
 
-This is the python code and installer for windows computers to be used for the Auto Extruder.
+This is the python code and installer for windows computers to be used for the Auto Extruder. For full installion click on 
 
 # Steps for installing on Windows
 
