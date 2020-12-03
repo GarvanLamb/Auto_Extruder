@@ -19,3 +19,35 @@ clike add python 3.9 to path then press install now
 This should install python to your computer. After the installion click close.
 
 **2. Second is to extract the github file to your computer** 
+First thing is to download my code as a zip file.
+Press code and this window should pop down. From here press download zip.
+This will download a zip file. Extract this onto your desktop.
+![git download](https://user-images.githubusercontent.com/59942551/100947383-8e97f800-34d3-11eb-82a8-7446060b5818.PNG)
+
+**3. Installing Resources**
+This step is installing the included python libraries.
+
+Double Click on WindowsInstaller and the rest will take care of itself
+![extracfolder](https://user-images.githubusercontent.com/59942551/100947761-488f6400-34d4-11eb-8618-b6c06162c691.PNG)
+
+**.4 Installing arduino** 
+This step has you install arduino on your computer. This installs the required drivers to run the Arduino.
+
+to install Arduino visit this site https://www.arduino.cc/en/software
+Scroll down and click Windows installer
+![win7](https://user-images.githubusercontent.com/59942551/100948810-b3419f00-34d6-11eb-9832-f6558199705d.PNG)
+Press just download and run the downloaded file
+follow the basic installion processes pressing i agree and next and install.
+This will add the Drivers to your computer
+
+**4. Now that it is all installed create a shortcut**
+Right click on Auto_Extruder_Run.py and press create shortcut
+This will create a shortcut
+
+Drag this file to the desktop and if you double click this the file will run
+
+**5. The file is now ready to run**
+
+**Few things to note this file will not run if the arduino is not plugged into the computer**
+
+
